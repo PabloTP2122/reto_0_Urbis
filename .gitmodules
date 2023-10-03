@@ -1,0 +1,6 @@
+[submodule "reto_0_Urbis"]
+	path = reto_0_Urbis
+	url = https://github.com/JoseLuis-03/reto_0_Urbis.git
+[submodule "to-do-list"]
+	path = to-do-list
+	url = https://github.com/JoseLuis-03/to-do-list.git
